@@ -15,4 +15,4 @@ Prazer! Eu sou Rafael Feltrim.
 
 🔧   Visual Studio Code | Intellij | Visual Studio | Git
 
-![image](https://user-images.githubusercontent.com/125091849/231328412-efa8e998-a232-4540-abae-ec3340d876af.png)
+![giphy](https://user-images.githubusercontent.com/125091849/231328955-9fb14d0f-2a3c-41ff-b15e-d13193aaf19e.gif)
